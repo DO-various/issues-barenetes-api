@@ -8,7 +8,7 @@ Issues for the implementation of the **Barenetes** API, planned after the `.prot
 
 - [@beliott](https://github.com/beliott) — Eliott BASSIER
 - [@c-r-lewis](https://github.com/c-r-lewis) — Charlotte LEWIS
-- [@nadouuulh](https://github.com/nadouuulh) — Nadia LAHYA
+- [@nadouulh](https://github.com/nadouulh) — Nadia LAHYA
 
 ## Why
 
